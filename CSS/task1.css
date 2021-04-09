@@ -1,0 +1,70 @@
+h1{
+    font-style: italic;
+    /* font-family: cursive; */
+    /* margin-top: 50px;
+    position: absolute;
+    left: 15%; */
+    text-align: center;
+    font-family: 'New Tegomin', serif;
+}
+/* .part1,.part2,.part3,.part4,.part5{
+    position: absolute;
+    left: 10%;
+    top: 20%;
+} */
+.main{
+    /* position: absolute;
+    top: 10%; */
+    background-color: blue;
+    width: 100%;
+    height: 800px;
+    display: flex;
+    justify-content: center;/*(to place at center in a row*/
+    align-items: center; /*(tomplace at centre from top*/
+    justify-content: space-around;
+}
+
+.part{
+    width: 200px;
+    height: 500px;
+    background-color: blueviolet;
+    border: black solid 2px;
+}
+/* .part1{
+    background-color: rgb(78, 119, 194);
+
+    position: absolute;
+    left: 10%;
+    top: 20%;
+
+}
+.part2{
+    background-color: cadetblue;        
+
+    position: absolute;
+    left: 25%;
+    top: 20%;
+}
+
+.part3{
+    background-color: rgb(38, 155, 73);
+
+    position: absolute;
+    left: 40%;
+    top: 20%;
+}
+.part4{
+    background-color: rgb(176, 197, 81);
+
+    position: absolute;
+    left: 55%;
+    top: 20%;
+}
+.part5{
+    background-color: rgb(124, 43, 43);
+
+    position: absolute;
+    left: 70%;
+    top: 20%;
+    right: 50%;
+} */
